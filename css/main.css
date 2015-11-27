@@ -19,7 +19,7 @@ header h1 a, header h1 a:visited{/*decoration, couleur lien cliqué*/
 h2 {margin : 0;
     font-size: 15px;} /*marge et taille titre H2 dans header*/
 
-/*************************Navigation****************************************/
+/*************************Navigation*****************************************/
 nav{background-color : #E26A6A;
     text-align: center;
     border: 2px outset black;
